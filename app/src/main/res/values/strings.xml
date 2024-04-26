@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AffirmationApp</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">Each day is an opportunity to become better.</string>
+    <string name="affirmation3">I am enough.</string>
+    <string name="affirmation4">Today will be a great day.</string>
+    <string name="affirmation5">I am worthy.</string>
+    <string name="affirmation6">From now on, I am who I want.</string>
+    <string name="affirmation7">I am not alone.</string>
+    <string name="affirmation8">I am steady and aware.</string>
+    <string name="affirmation9">My anxiety might arrive, but it will also pass.</string>
+    <string name="affirmation10">Today, I will be efficient and productive.</string>
+
+
+</resources>
